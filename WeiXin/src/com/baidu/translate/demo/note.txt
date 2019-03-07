@@ -1,0 +1,1 @@
+百度翻译demo：详细见http://api.fanyi.baidu.com/api/trans/product/index 有具体的文档和demo
