@@ -130,6 +130,7 @@ class HttpGet {
     public static String encode(String input) {
         if (input == null) {
             return "";
+            //
         }
 
         try {
